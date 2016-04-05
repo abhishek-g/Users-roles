@@ -1,0 +1,85 @@
+
+.newusers-box{
+    border: 1px solid black;
+    height: 600px;
+    margin-top: 200px;
+
+}
+.theme-newuser-label{
+    font-family: Roboto bold;
+    font-size: 16px;
+    color: #50505a;
+    background-color: #ffffff;
+    padding: 20px 20px 20px 20px;
+
+}
+
+#gridSystemModalLabel{
+    font-family: Roboto bold;
+    text-align: center;
+    font-size: 21px;
+    color: #ffffff;
+    background-color: #00a7e9;
+
+}
+
+.modal-dialog{
+    width:900px
+}
+
+.txtbox{
+    margin-left: 10px;
+    height:10px;
+    width: 50px;
+}
+
+.rows{
+    margin-top: 20px;
+}
+
+.labels{
+    font-family: Roboto bold;
+    font-size: 16px;
+    color: #50505a;
+    margin-left: 20px;
+}
+.chkbox{
+    margin-left: 20px;
+}
+
+.labelschk{
+    font-family: Roboto regular;
+    font-size: 16px;
+    color: #50505a;
+
+}
+.btnCancel{
+    font-family: Roboto regular;
+    font-size: 16px;
+    color: #ffffff;
+    background-color: #b4b4be;
+    height: 25px;
+    width: 100px;
+    padding: 2px 2px 2px 2px;
+
+}
+.btnSend{
+    font-family: Roboto regular;
+    font-size: 16px;
+    color: #ffffff;
+    background-color: #00a7e9;
+    height: 25px;
+    width: 170px;
+    padding: 2px 2px 2px 2px;
+
+}
+#menu1{
+    margin-left: 22px;
+    height: 30px;
+    width: 180px;
+    text-align: left;
+}
+.caret{
+    margin-left: 0px;
+
+}
